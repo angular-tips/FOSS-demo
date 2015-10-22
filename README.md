@@ -1,4 +1,4 @@
-# FOSS (Free open source software) DEMO
+# FOSS (Free open source software) demo
 
 This is a demo repository for my article <insert link>.
 
